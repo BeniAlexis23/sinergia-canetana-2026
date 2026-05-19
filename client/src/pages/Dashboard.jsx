@@ -17,8 +17,8 @@ const Dashboard = () => {
       <main className="section-shell py-10">
         <div className="rounded-lg bg-ink p-8 text-white">
           <p className="font-bold uppercase text-secondary">Administracion</p>
-          <h1 className="mt-3 text-4xl font-black">Panel de campana</h1>
-          <p className="mt-3 max-w-2xl text-white/75">Gestiona las noticias publicas de Sinergia Canetana desde una API local con autenticacion.</p>
+          <h1 className="mt-3 text-4xl font-black">Panel de campaña</h1>
+          <p className="mt-3 max-w-2xl text-white/75">Gestiona las noticias publicas de Unidad Unadecina desde una API local con autenticación.</p>
         </div>
 
         <div className="mt-8 grid gap-5 md:grid-cols-3">

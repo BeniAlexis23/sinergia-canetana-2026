@@ -8,7 +8,7 @@ const AdminNav = () => {
   return (
     <header className="border-b border-slate-200 bg-white">
       <nav className="section-shell flex min-h-16 flex-col gap-3 py-4 md:flex-row md:items-center md:justify-between">
-        <Link to="/dashboard" className="font-bold text-ink">Panel Sinergia Canetana</Link>
+        <Link to="/dashboard" className="font-bold text-ink">Panel Unidad Unadecina</Link>
         <div className="flex flex-wrap items-center gap-2 text-sm">
           <NavLink to="/dashboard" className="inline-flex items-center gap-2 rounded border border-slate-200 px-3 py-2">
             <LayoutDashboard size={16} />

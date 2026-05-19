@@ -18,13 +18,13 @@ const LoginPage = () => {
       <section className="hero-scene hidden items-end p-10 text-white lg:flex">
         <div>
           <p className="mb-3 inline-flex rounded bg-secondary px-3 py-2 text-sm font-bold text-ink">Panel local</p>
-          <h1 className="text-5xl font-black">Gestiona la voz de la campana.</h1>
+          <h1 className="text-5xl font-black">Gestiona la voz de la campaña.</h1>
           <p className="mt-4 max-w-xl leading-7 text-white/80">Publica noticias, comunicados y actualizaciones para mantener informada a la comunidad universitaria.</p>
         </div>
       </section>
       <section className="grid place-items-center p-6">
         <div className="w-full max-w-md rounded-lg bg-white p-8 shadow-soft">
-          <Link to="/" className="font-bold text-primary">Sinergia Canetana</Link>
+          <Link to="/" className="font-bold text-primary">Unidad Unadecina</Link>
           <h2 className="mt-6 text-3xl font-black text-ink">Iniciar sesion</h2>
           <p className="mt-2 text-slate-600">Accede al panel de administracion local.</p>
 

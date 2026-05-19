@@ -35,7 +35,7 @@ const NoticesPage = () => {
         <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
           <div>
             <h1 className="text-3xl font-black text-ink">Noticias</h1>
-            <p className="mt-2 text-slate-600">Crea, edita y elimina comunicados de campana.</p>
+            <p className="mt-2 text-slate-600">Crea, edita y elimina comunicados de campaña.</p>
           </div>
           <Link to="/notices/new" className="inline-flex items-center gap-2 rounded bg-primary px-4 py-3 font-bold text-white">
             <Plus size={18} />
