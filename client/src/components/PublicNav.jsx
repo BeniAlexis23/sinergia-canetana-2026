@@ -51,7 +51,7 @@ const PublicNav = () => {
         <div className="brand-accent-line" />
         <nav className="section-shell flex min-h-[84px] items-center justify-between py-3">
           <button type="button" onClick={scrollToTop} className="flex min-w-0 items-center gap-3 text-left font-bold">
-            <span className="grid h-14 w-14 shrink-0 place-items-center overflow-hidden rounded-lg border border-deep-100 bg-white p-1 shadow-sm md:h-16 md:w-16">
+            <span className="grid h-14 w-14 shrink-0 place-items-center overflow-hidden md:h-16 md:w-16">
               <img src={logoUnadecina} alt="Unidad Unadecina" className="h-full w-full object-contain" />
             </span>
             <span className="min-w-0 leading-tight">
